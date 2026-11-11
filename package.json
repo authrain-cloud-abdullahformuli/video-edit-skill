@@ -1,0 +1,31 @@
+{
+  "name": "@authrain/video-edit-skill",
+  "version": "1.0.0",
+  "description": "Turn raw 9:16 talking-head clips into finished, premium Instagram reels with Claude Code and AI agents",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs",
+    "lint": "node -e \"console.log('Validating video-edit-skill structure...');\""
+  },
+  "keywords": [
+    "video-edit",
+    "claude-code",
+    "agent-skills",
+    "claude-skills",
+    "hyperframes",
+    "faster-whisper",
+    "ai-video-editing",
+    "reels-editor",
+    "reels"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/video-edit-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/video-edit-skill/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/video-edit-skill#readme"
+}
